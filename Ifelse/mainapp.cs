@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ifelse
 {
-    class Program
+    class mainapp
     {
         static void Main(string[] args)
         {
