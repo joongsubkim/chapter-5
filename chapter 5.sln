@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ifelse", "Ifelse\Ifelse.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifif", "ifif\ifif.csproj", "{C0CE94A5-0568-4F0C-837A-3E2E56D5131B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p151_ex2", "p151_ex2\p151_ex2.csproj", "{C5244A87-5FAE-4180-B09B-2D794DD5CB4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C0CE94A5-0568-4F0C-837A-3E2E56D5131B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0CE94A5-0568-4F0C-837A-3E2E56D5131B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0CE94A5-0568-4F0C-837A-3E2E56D5131B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5244A87-5FAE-4180-B09B-2D794DD5CB4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5244A87-5FAE-4180-B09B-2D794DD5CB4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5244A87-5FAE-4180-B09B-2D794DD5CB4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5244A87-5FAE-4180-B09B-2D794DD5CB4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

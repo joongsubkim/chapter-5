@@ -16,6 +16,8 @@ namespace ifif
             string input = (Console.ReadLine());
             int number = Convert.ToInt32(input);
             if (number > 0)
+               // Console.WriteLine(number $2 =? "짝수" : "홀수");
+            
             { 
                 if (number % 2 == 0)
                 Console.WriteLine("0보다 큰 짝수.");
