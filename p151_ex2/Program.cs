@@ -10,7 +10,8 @@ namespace p151_ex2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("숫자를 입력하세요");
+            Console.Write("숫자를 입력하세요");
+            Console.Write("숫자를 입력하세요");
             string input = Console.ReadLine();
             int number = Convert.ToInt32(input);
             if (number >= 50)
